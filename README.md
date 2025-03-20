@@ -1,6 +1,6 @@
 ---
 
-# 🎨 React Color Picker Component
+# 🎨 React Color Picker
 
 This project is a simple and interactive **Color Picker** component built with React. It allows users to pick a color using a color input and displays the selected color. Additionally, users can click on the color display box to **copy the color code** to their clipboard.
 
